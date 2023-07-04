@@ -1,6 +1,7 @@
 STM8 Templates with Arduino look&feel 
 =================
-
+本项目来自于：https://github.com/gicking/STM8_templates
+原作者已经停止维护。在此基础上对STVP开发平台所有项目进行了编译测试,保证都能通过。但是不保证所有程序，烧录到目标芯片上能否都能达到预期效果。
 **Sorry, we're closed!**
 
 Due to lack of time and shifted emphasis this repository is no longer maintained. Sorry for any inconvenience and thanks a lot for your understanding! 
