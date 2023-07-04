@@ -1,0 +1,24 @@
+..\..\..\..\library\base\inc\gpio.h
+..\..\..\..\library\base\inc\main_general.h
+..\..\..\..\library\base\inc\misc.h
+..\..\..\..\library\base\inc\putchar.h
+..\..\..\..\library\base\inc\stm8_interrupt_vector.h
+..\..\..\..\library\base\inc\stm8as.h
+..\..\..\..\library\base\inc\sw_delay.h
+..\..\..\..\library\base\inc\timer3.h
+..\..\..\..\library\base\inc\timer4.h
+..\..\..\..\library\base\inc\uart1.h
+..\..\..\..\library\base\src\gpio.c
+..\..\..\..\library\base\src\main_general.c
+..\..\..\..\library\base\src\misc.c
+..\..\..\..\library\base\src\putchar.c
+..\..\..\..\library\base\src\timeout.c
+..\..\..\..\library\base\src\timer3.c
+..\..\..\..\library\base\src\timer4.c
+..\..\..\..\library\base\src\uart1.c
+..\..\..\..\library\base\src\stm8_interrupt_vector.c
+..\config.h
+..\main.c
+..\..\..\..\library\base\inc\stdint.h
+c:\program files (x86)\cosmic\cxstm8_32k\hstm8\ctype.h
+c:\program files (x86)\cosmic\cxstm8_32k\hstm8\mods0.h

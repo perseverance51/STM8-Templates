@@ -1,0 +1,34 @@
+# upload tools (distributed separately)
+stm8flash
+stm8flash.exe
+stm8gal
+stm8gal.exe
+STM8_serial_flasher
+STM8_serial_flasher.exe
+
+# SDCC build output
+Makefile
+output
+
+# Cosmic build output
+Release
+Debug
+
+# STM8 Standard Peripheral Library (patch distributed separately, note license)
+SPL
+*_StdPeriph_Driver
+
+# untested or unfinished projects (starting with 'x_')
+x_*
+
+# misc: STM8 documentation, ideas, scripts, etc.
+Ideen.txt
+doxygen/html
+/Docu/Manuals
+/Docu/Obsolete
+/Docu/PiAndMore_2017
+/Docu/.~lock.*
+/Tools/__pycache__/misc.cpython-35.pyc
+/Tools/misc.pyc
+/Tools/uploadHex.pyc
+/Tools/buildProject.pyc
