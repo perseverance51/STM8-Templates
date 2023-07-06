@@ -336,6 +336,11 @@ Next=Root.STM8_Lib.STM8_Lib\inc...\..\..\..\library\base\inc\timer4.h
 [Root.STM8_Lib.STM8_Lib\inc...\..\..\..\library\base\inc\timer4.h]
 ElemType=File
 PathName=..\..\..\..\library\base\inc\timer4.h
+Next=Root.STM8_Lib.STM8_Lib\inc...\..\..\..\library\base\inc\uart1.h
+
+[Root.STM8_Lib.STM8_Lib\inc...\..\..\..\library\base\inc\uart1.h]
+ElemType=File
+PathName=..\..\..\..\library\base\inc\uart1.h
 
 [Root.STM8_Lib.STM8_Lib\src]
 ElemType=Folder
